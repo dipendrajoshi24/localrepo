@@ -2,3 +2,4 @@
 print("Hello, World!")
 
 print("This is a new function:hii")
+print("This is a function:hello")
